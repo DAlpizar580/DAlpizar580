@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
+  <img src="https://profile-counter.glitch.me/{DAlpizar580}/count.svg" />
 </p>
 
 <p align="center">
