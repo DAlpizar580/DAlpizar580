@@ -60,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,firebase,github,html,java,js,linux,py,react,vscode, azure, cs, mysql, wordpress&perline=14" />
+    <img src="[![My Skills](https://skillicons.dev/icons?i=git,css,discord,firebase,github,html,java,js,linux,py,react,vscode, azure, cs, mysql, wordpress)](https://skillicons.dev)/>
   </a>
 </p>
 
