@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css, html" />
+    <img src="https://skillicons.dev/icons?i=css, java" />
   </a>
 </p>
 
