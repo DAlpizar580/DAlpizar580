@@ -60,14 +60,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css, html, java, js, linux, py, react" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=firebase, azure, aws, cs, mysql" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,linux,py,cs,firebase,azure,aws,mysql" />
   </a>
 </p>
